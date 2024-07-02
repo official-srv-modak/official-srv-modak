@@ -27,7 +27,7 @@
 - Description: It's an OTTServer with Web, Mobile, Android, Android TV app.
 - Tech stack: Java, Spring boot, Mysql, php, Html, CSS, apache webserver.
 
-### Project 2: [Cameroscopy]([link](https://play.google.com/store/apps/details?id=com.souravmodak.cameroscopy&hl=en_CA))
+### Project 2: [Cameroscopy]([link](https://play.google.com/store/apps/details?id=com.souravmodak.cameroscopy&hl=en_CA)
 - Description: ...
 - Tech stack: ...
 
