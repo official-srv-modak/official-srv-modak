@@ -19,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring Boot](https://img.shields.io/badge/-Node.js-000?&logo=Spring)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=Spring)
 
 ## Projects
 
