@@ -23,9 +23,9 @@
 
 ## Projects
 
-### Project 1: [Project Name](link)
-- Description: ...
-- Tech stack: ...
+### Project 1: OTTServer([link](https://github.com/official-srv-modak/OTTServer))
+- Description: It's an OTTServer with Web, Mobile, Android, Android TV app.
+- Tech stack: Java, Spring boot, Mysql, php, Html, CSS, apache webserver.
 
 ### Project 2: [Project Name](link)
 - Description: ...
