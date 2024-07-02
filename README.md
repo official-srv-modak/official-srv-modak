@@ -28,8 +28,8 @@
 - Tech stack: Java, Spring boot, Mysql, php, Html, CSS, apache webserver.
 
 ### Project 2: [Cameroscopy]([link](https://play.google.com/store/apps/details?id=com.souravmodak.cameroscopy&hl=en_CA))
-- Description: ...
-- Tech stack: ...
+- Description: Created an app on the playstore for a research project, which is a tool used in that research.
+- Tech stack: Java, Android, Spring boot.
 
 ## Connect with Me
 
