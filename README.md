@@ -1,4 +1,4 @@
-![Header](https://img.shields.io/badge/Your_Name-Welcome_to_my_GitHub_Profile-blue)
+![Header](https://img.shields.io/badge/Sourav Modak-Welcome_to_my_GitHub_Profile-blue)
 
 # Hello, I'm Sourav Modak 👋
 
