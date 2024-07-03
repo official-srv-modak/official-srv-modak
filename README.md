@@ -14,12 +14,12 @@
 
 ## Skills
 
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=Spring)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=Spring)
 
 ## Projects
 
