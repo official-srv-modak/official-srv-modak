@@ -8,7 +8,6 @@
 - 💼 I’m currently worked in Temenos and Infosys India, currently studying at Humber college in Toronto, CA.
 - 🔭 I’m currently working on an LLAM based project using python and Ollama.
 - 👯 I’m looking to collaborate on on my current project
-- 💬 Ask me about ...
 - 📫 How to reach me: [official.srv.modak@gmail.com](mailto:official.srv.modak@gmail.com)
 
 
