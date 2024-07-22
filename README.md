@@ -33,8 +33,8 @@
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/sourav-modak-b54316161/)
-[![Website](https://img.shields.io/badge/Website-000?style=flat&logo=google-chrome)]([https://official-srv-modak.github.io](https://official-srv-modak.github.io))
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=GitHub)]([https://official-srv-modak.github.io](https://github.com/official-srv-modak))
+[![Website](https://img.shields.io/badge/Website-000?style=flat&logo=google-chrome)]((https://official-srv-modak.github.io))
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=GitHub)]((https://github.com/official-srv-modak))
 
 ## GitHub Stats
 
