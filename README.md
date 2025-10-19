@@ -29,7 +29,7 @@
 ## Projects
 
 ### 🩵 Project 1: [Balkan Date](https://balkan-date.com)
-**Role:** Software Developer, Think Swift — *Toronto, Canada (May 2025 – Present)*  
+Think Swift — *Toronto, Canada (May 2025 – Present)*  
 - Leading development of **Balkan Date**, a cross-platform dating app using **Spring Boot**, **MySQL/PostgreSQL**, and **React Native**, deployed on **Azure Kubernetes Service (AKS)**.  
 - Built a secure, scalable backend with custom authentication and **HLS-based media streaming via FFMPEG**.  
 - Set up **Azure cloud infrastructure** with ACR and **GitLab CI/CD** for automated deployments.  
