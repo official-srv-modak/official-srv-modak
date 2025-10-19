@@ -5,7 +5,7 @@
 ## About Me
 
 - 🌱 I’m currently learning full stack development  
-- 💼 I’ve worked at Temenos and Infosys India, and I’m currently studying at Humber College in Toronto, Canada  
+- 💼 I’ve worked at Temenos and Infosys India, and I’m currently a software development in Toronto, Canada at Think Swift. 
 - 🔭 I’m currently working on an LLAM-based project using Python and Ollama  
 - 👯 I’m looking to collaborate on my current project  
 - 📫 How to reach me: [official.srv.modak@gmail.com](mailto:official.srv.modak@gmail.com)
